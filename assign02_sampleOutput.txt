@@ -1,0 +1,57 @@
+1. Hamed Attar
+2. Saynab Babatunde
+3. Habiba Boulos
+4. Pons Bourreau
+5. Artem Boyko
+6. Apoorva Chaudhri
+7. Thao Ngo
+8. Silvie O Rodagh
+9. Frantiska V vra
+10. Jia Yu
+
+Select a studnet number to view their grades and GPA, G to view all students' GPAs, or X to exit. 
+1
+
+Hamed Attar
+==========
+ABC 123: 43.4, F
+DEF 456: 76.4, B+
+GHI 789: 66.7, C+
+ABC 123: F
+DEF 456: B+
+GHI 789: C+
+
+Hamed's GPA is 2.0 or C.
+
+Press any key to continue, or X to exit.
+a
+
+1. Hamed Attar
+2. Saynab Babatunde
+3. Habiba Boulos
+4. Pons Bourreau
+5. Artem Boyko
+6. Apoorva Chaudhri
+7. Thao Ngo
+8. Silvie O Rodagh
+9. Frantiska V vra
+10. Jia Yu
+
+Select a studnet number to view their grades and GPA, G to view all students' GPAs, or X to exit. 
+g
+
+Hamed Attar has a 2 GPA.
+Saynab Babatunde has a 1.5 GPA.
+Habiba Boulos has a 2.5 GPA.
+Pons Bourreau has a 1 GPA.
+Artem Boyko has a 2 GPA.
+Apoorva Chaudhri has a 2.5 GPA.
+Thao Ngo has a 4 GPA.
+Silvie O Rodagh has a 3.5 GPA.
+Frantiska V vra has a 1.5 GPA.
+Jia Yu has a 4 GPA.
+
+Press any key to continue, or X to exit.
+x
+
+Goodbye.
